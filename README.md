@@ -25,3 +25,13 @@ Aqui está um exemplo simples de um documento HTML:
 </body>
 </html>
 ```
+
+### Exemplos de tags
+**`Button:`** Você pode criar um botão, a tag button de abertura <button>, e uma tag de fechamento </button>.
+
+### Exemplo:
+```Botão
+<button>Curtir</button> 
+```
+
+
