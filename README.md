@@ -12,7 +12,7 @@ A maioria das tags precisa ser fechada, o que representamos com uma barra(/) ent
 
 ### Estruturas básica de um documento HTML
 Aqui está um exemplo simples de um documento HTML:
-``` HTML estrutura
+``` HTML
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -26,12 +26,19 @@ Aqui está um exemplo simples de um documento HTML:
 </html>
 ```
 
-### Exemplos de tags
+## Exemplos de tags
 **`Button:`** Você pode criar um botão, a tag button de abertura <button>, e uma tag de fechamento </button>.
 
 ### Exemplo:
-```Botão
+```HTML
 <button>Curtir</button> 
 ```
 
+## Textos e títulos:
+**`p:`** Para codificar um parágrafo você precisa da tag de abertura e a tag de fechamento.
+
+### Exemplo:
+```HTML
+<p>Olá Brasil</p>
+```
 
