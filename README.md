@@ -48,3 +48,12 @@ Aqui está um exemplo simples de um documento HTML:
 ```HTML
 <h1>Olá</h1> 
 ```
+
+## Quebras de linha, ênfase e importância:
+**`br:`** Podemos separar linhas com a ajuda da tag de quebra de linha br, <br> é uma tag vazia. Tags vazias não tem fechamento e nem conteúdo.
+
+### Exemplos:
+```HTML
+<h1>Ola mundo</h1> <br>
+<h2>Que?</h2>
+```
