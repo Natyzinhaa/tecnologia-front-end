@@ -57,3 +57,21 @@ Aqui está um exemplo simples de um documento HTML:
 <h1>Ola mundo</h1> <br>
 <h2>Que?</h2>
 ```
+
+**`em:`** O elemento em torna texto itálico. 
+
+### Exemplos:
+```HTML
+<em>Favorito</em>
+```
+
+**`strong:`** Para definir textos como importantes ou em negritos.
+
+### Exemplos:
+```HTML
+<strong>Favorito</strong>
+```
+
+## Links e atributos:
+
+**`a:`** 
