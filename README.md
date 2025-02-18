@@ -45,11 +45,11 @@ Aqui está um exemplo simples de um documento HTML:
 **`h1 até o h6:`** Existem 6 tamanhos de títulos em HTML, de h1 a h6. A tag título enfatiza os textos tornando-os maiores e mais em negrito, h1 é o maior e mais em negrito e h6 é menor e menos em negrito.
 
 ### Exemplo:
-```HTML
+
 <h1>Olá</h1> <br>
 <h2>Olá</h2> <br>
 <h3>Olá</h3> <br>
 <h4>Olá</h4> <br>
 <h5>Olá</h5> <br>
 <h6>Olá</h6> 
-```
+
